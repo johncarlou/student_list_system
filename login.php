@@ -38,7 +38,7 @@
         <div class="text-center ">
             <h5>Welcome to</h5>
             <h1>JC's private elementary school</h1>
-            <h3>Student Lists System</h3>
+            <h3>Student Record System</h3>
         </div>
 
         <div class="container p-5 w-50 text-center">
