@@ -1,4 +1,4 @@
-Here are the credentials for the admin to log in to the Simple CRUD Record System:
+Here are the credentials for the administrator and normal user to log in to the Simple CRUD Record System:
 
 Administrator
 Username: johndoe@gmail.com
